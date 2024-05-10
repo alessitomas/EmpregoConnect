@@ -14,4 +14,4 @@ EmpregoConnect é um assistente virtual desenvolvido para ajudar os usuários a 
 
 Para acessar aplicativo EmpregoConnect, basta clicar no link abaixo:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/alessitomas/empregoconnect/main/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://empregoconnect.streamlit.app/)
