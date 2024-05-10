@@ -2,6 +2,12 @@
 
 EmpregoConnect é um assistente virtual desenvolvido para ajudar os usuários a encontrar vagas de emprego que correspondam aos seus interesses e habilidades. Este projeto é construído usando o framework Streamlit, que permite criar aplicativos da web interativos com Python, e para o chatBot foi usado o modelo Gemini-1.5-pro.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://empregoconnect.streamlit.app/)
+
+![Descrição da imagem 1](home.png)
+![Descrição da imagem 2](initialchat.png)
+![Descrição da imagem 3](conversation.png)
+
 ## Funcionalidades
 
 - **Busca de Vagas**: O assistente virtual permite aos usuários pesquisar vagas de emprego com base em palavras-chave, localização e setor de interesse.
