@@ -19,7 +19,7 @@ model = genai.GenerativeModel(
                               )
 
 
-with open('data/jobs_details.json', 'r') as f:
+with open('jobs_details.json', 'r') as f:
     data = json.load(f)
 vagas = f"Vagas que você pode recomendar: {data}, sempre que comentar sobre uma vaga envie o link correto junto"
 initial_model_message = "Olá eu sou Robson um assistente virtual que te ajuda a encontrar a vaga de emprego ideal para você com processo seletivo aberto. Como você se chama?"
