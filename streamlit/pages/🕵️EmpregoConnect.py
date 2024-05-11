@@ -10,7 +10,7 @@ load_dotenv()
 import json
 from jobs_details import jobs_details as data
 
-system_instruction = "Seu nome é Robson, um assistente virtual que ajuda um usuário a encontrar uma vaga de emprego. Seu trabalho é perguntar ao usuário seus interesses, experiências e qual área de atuação ele quer, em seguida, quando entender o perfil o usuario, sugerir vagas de emprego que possam ser interessantes para ele."
+system_instruction = "Seu nome é Robson, um assistente virtual que ajuda um usuário a encontrar uma vaga de emprego. Seu trabalho é perguntar ao usuário onde ele mora, quantos anos tem de experiência, seues interesses e experiências e qual área de atuação ele quer, em seguida, quando entender o perfil o usuario, sugerir vagas façam sentido ao perfil dele. Sempre envia o link da vaga junto com a recomendação."
 # Configurando a api para o modelo
 genai.configure(api_key=os.getenv("gemini_api_key"))
 # Inicializando o modelo (gemini-1.5-pro-latest)
@@ -18,8 +18,7 @@ model = genai.GenerativeModel(
   model_name="gemini-1.5-pro-latest",
   system_instruction=system_instruction
                               )
-
-
+       
 vagas = f"Vagas que você pode recomendar: {data}, sempre que comentar sobre uma vaga envie o link correto junto, "
 initial_model_message = "Olá eu sou Robson um assistente virtual que te ajuda a encontrar a vaga de emprego ideal para você com processo seletivo aberto. Como você se chama?"
 
@@ -29,6 +28,8 @@ if "chat" not in st.session_state:
 
 # Fazendo o display do título da página
 st.title('EmpregoConnect🕵️')
+
+st.write("O Assistente Virtual Robson está aqui para te ajudar a encontrar a vaga de emprego do Google ideal para você! Ele tem informação de 20 vagas do Google com processo seletivo aberto, e logo terá mais vagas de outras empresas. Vamos começar?")
 
 
 for i, message in enumerate(st.session_state.chat.history):
