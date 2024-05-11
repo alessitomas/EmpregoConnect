@@ -1,4 +1,4 @@
-## README do EmpregoConnect
+## EmpregoConnect
 
 **O que é o EmpregoConnect?**
 
