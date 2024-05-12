@@ -1,7 +1,7 @@
 import streamlit as st
 
-# Definindo o título e a configuração da página
-st.set_page_config(page_title='EmpregoConnect', page_icon='🚀', layout='wide')
+
+
 
 # Adicionando título 
 st.title('EmpregoConnect 🚀')
