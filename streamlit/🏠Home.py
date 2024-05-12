@@ -1,8 +1,6 @@
 import streamlit as st
 
 
-
-
 # Adicionando título 
 st.title('EmpregoConnect 🚀')
 
