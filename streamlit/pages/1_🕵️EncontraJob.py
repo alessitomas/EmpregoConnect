@@ -52,7 +52,7 @@ if "chat_encontra" not in st.session_state:
     st.session_state.chat_encontra = model.start_chat(history=[{'role':'model', 'parts': [initial_model_message]}])
 
 # Título da página
-st.title('EncontraJob.')
+st.title('EncontraJob🕵️')
 
 # Introdução do assistente virtual
 st.write("O Assistente Virtual Robson está aqui para te ajudar a encontrar a vaga de emprego ideal para você! Atualmente o assitente tem informações e links de 20 vagas do Google com processo seletivo aberto, e logo terá mais vagas de outras empresas. Vamos começar?")

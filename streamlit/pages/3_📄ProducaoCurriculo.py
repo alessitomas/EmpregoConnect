@@ -38,8 +38,7 @@ def text_from_pdf(pdf):
         text += page.extract_text()
     return text
 
-if "chat_cv" not in st.session_state:
-    st.session_state.chat_cv = model.start_chat(history=[])
+
 
 # Título da página
 st.title('Produção de Currículo 📄')
@@ -61,11 +60,9 @@ if cv is not None:
         initial_message = f"Olá Ana, gostaria de me candidatar para a vaga de {vaga}. Aqui está o meu currículo atual {text}."
         button = st.button('Enviar')
         if button:
-            with st.spinner("Pensando..."):
-                ai_query = st.session_state.chat_cv.send_message(initial_message)
+            with st.spinner("Processando..."):
+                ai_query = model.generate_content(initial_message)
                 st.markdown(ai_query.text)
-
-
 
     else:
         st.warning('Por favor, preencha o campo da vaga antes de continuar.')
