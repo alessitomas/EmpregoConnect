@@ -1,12 +1,28 @@
-## EmpregoConnect
+## EmpregoConnect 🚀
 
 **O que é o EmpregoConnect?**
 
-O EmpregoConnect é uma plataforma que te ajuda a encontrar o emprego ideal, oferecendo três assistentes virtuais para auxiliar em todas as etapas do processo:
+O EmpregoConnect é uma plataforma que te ajuda a encontrar emprego ideal!
 
-* **EncontraJob:** Encontra vagas de emprego com processo seletivo aberto que combinem com suas experiências e interesses.
-* **PreparoSoftSkills:** Simula perguntas de entrevistas de emprego e fornece feedback para você se preparar da melhor forma.
-* **ProducaoCurriculo:** Analisa seu currículo e fornece feedback construtivo para que você o aperfeiçoe e aumente suas chances de ser chamado para uma entrevista.
+**Contexto do problema 😢**
+
+Encontrar um emprego pode ser um processo desafiador e demorado. 
+
+1. Muitas vezes é difícil encontrar vagas com processo seletivo aberto que combinem com suas experiências e interesses.
+
+2. Preparar-se para a entrevistas de emprego não é trivial. É importante saber como responder perguntas comuns e se preparar para possíveis perguntas inesperadas, mas onde conseguir simular uma entrevista?.
+
+3. Seu currículo é a primeira impressão que você passa para o recrutador. É importante que ele esteja bem estruturado e adequado para a vaga que você está se candidatando, mas a maioria da pessoas acaba usando um mesmo currículo para vagas diferentes.
+
+**Soluções 🚀**
+
+Na plataforma EmpregoConnect você irá encontrar três assistentes virtuais, cada uma especializada em um dos problemas acima:
+
+* **EncontraJob🕵️:** Encontra vagas de emprego com processo seletivo aberto que combinem com suas experiências e interesses, ele explica quais critérios você não se adequou da vaga e retorna um link para o processo seletivo.
+
+* **PreparoSoftSkills🥋:** Simula uma entrevista de emprego para sua vaga de interesse, fornecendo feedback para você se preparar da melhor forma.
+
+* **ProducaoCurriculo📄:** Analisa seu currículo e vaga de interesse, eno final fornece feedback construtivo para que você o aperfeiçoe e aumente suas chances de ser chamado para uma entrevista.
 
 ### EmpregoConnect está no ar!
 
@@ -17,20 +33,21 @@ Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://empregoconnect.streamlit.app/)
 
+
+
+
 **Benefícios do EmpregoConnect:**
 
-* **Facilidade de uso:** Plataforma intuitiva e fácil de usar, mesmo para quem não tem experiência com tecnologia.
-* **Eficiência:** Assistentes virtuais te ajudam a encontrar vagas, se preparar para entrevistas e melhorar seu currículo de forma rápida e eficiente.
+* **Eficiência:** Assistentes virtuais especialista te ajudam a encontrar vagas, se preparar para entrevistas e melhorar seu currículo de forma rápida e eficiente.
 * **Personalização:** Feedback personalizado de acordo com suas necessidades e perfil.
-* **Gratuito:** Plataforma totalmente gratuita para usar.
 
 
 **Arquivos do Projeto:**
 
 * **🏠Home.py** Página Home explica sobre os assistentes
-* **1_️EncontraJob.py:** Código do assistente virtual EncontraJob.
-* **2_PreparoSoftSkills.py:** Código do assistente virtual PreparoSoftSkills.
-* **3_ProducaoCurriculo.py:** Código do assistente virtual ProducaoCurriculo.
+* **1_🕵️EncontraJob.py:** Código do assistente virtual EncontraJob.
+* **2_🥋PreparoSoftSkills.py:** Código do assistente virtual PreparoSoftSkills.
+* **3_📄ProducaoCurriculo.py:** Código do assistente virtual ProducaoCurriculo.
 
 **Tecnologias utilizadas:**
 
@@ -39,32 +56,24 @@ Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
 * Google Generative AI
 
 
-### EmpregoConnect está no ar!
+## Imagens do aplicativo 
 
-Fiz o deploy por meio da Streamlit Cloud.
-Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://empregoconnect.streamlit.app/)
-
-
-### Imagens do aplicativo
-
-## Home
+### Home
 ![Descrição da imagem 1](home.jpeg)
 
-## Assistente EncontraJob
+### Assistente EncontraJob
 ![Descrição da imagem 2](encontra.jpeg)
-## Assistente EncontraJob em ação
+### Assistente EncontraJob em ação
 ![Descrição da imagem 3](encontra_acao.jpeg)
 
-## Assistente PreparoSoftSkills
+### Assistente PreparoSoftSkills
 ![Descrição da imagem 4](preparo.jpeg)
-## Assistente PreparoSoftSkills em ação
+### Assistente PreparoSoftSkills em ação
 ![Descrição da imagem 5](preparo_acao.jpeg)
 
-## Assistente ProducaoCurriculo
+### Assistente ProducaoCurriculo
 ![Descrição da imagem 6](cv.jpeg)
-## Assistente ProducaoCurriculo em ação
+### Assistente ProducaoCurriculo em ação
 ![Descrição da imagem 7](cv_acao.jpeg)
 
 **Como rodar o projeto na sua máquina:**
@@ -83,19 +92,6 @@ gemini_api_key = ""
 ```bash
 streamlit run 🏠Home.py
 ```
-
-
-
-
-
-
-
-**Linkedin:**
-<!-- melhore o link para o linkedin -->
-
-[Linkedin](https://www.linkedin.com/in/tom%C3%A1s-rodrigues-alessi-502883211/)
-
-
 
 
 
