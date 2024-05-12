@@ -1,3 +1,4 @@
 python-dotenv
 google-generativeai
 streamlit
+PyPDF2
