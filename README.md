@@ -75,10 +75,15 @@ Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
 ```bash
 pip install -r requirements.txt
 ```
+4. Criar um arquivo .env e adicionar a chave da API do Google Generative AI:
+```bash
+gemini_api_key = ""
+```
 4. Rodar o arquivo 🏠Home.py:
 ```bash
 streamlit run 🏠Home.py
 ```
+
 
 
 
