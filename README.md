@@ -26,7 +26,7 @@ Na plataforma EmpregoConnect você irá encontrar três assistentes virtuais, ca
 
 ### Apresentação do projeto 
 
-[![Assista ao vídeo](https://img.youtube.com/vi/SECVGN4Bsgg/0.jpg)](https://www.youtube.com/watch?v=SECVGN4Bsgg)
+[![Assista ao vídeo](https://img.youtube.com/vi/lf5KPec3JUs/0.jpg)](https://youtu.be/lf5KPec3JUs))
 
 
 ### EmpregoConnect está no ar!
