@@ -40,7 +40,6 @@ Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
 
 
 
-
 **Benefícios do EmpregoConnect:**
 
 * **Eficiência:** Assistentes virtuais especialista te ajudam a encontrar vagas, se preparar para entrevistas e melhorar seu currículo de forma rápida e eficiente.
