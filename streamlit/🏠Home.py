@@ -16,15 +16,15 @@ etapas = [
         "pagina": "[EncontraJob](https://empregoconnect.streamlit.app/EncontraJob)"
     },
     {
-        "nome": "Preparar para Entrevista",
+        "nome": "Preparar entrevista",
         "icone": "🥋",
-        "descricao": "Prepare-se para a entrevista de emprego da vaga que você deseja, simulando perguntas de um processo seletivo.",
+        "descricao": "Envie qual vaga você encontrou e receba dicas de como se preparar para a entrevista.",
         "pagina": "[PreparoSoftSkills](https://empregoconnect.streamlit.app/PreparoSoftSkills)"
     },
     {
         "nome": "Produzir Currículo",
         "icone": "📄",
-        "descricao": "Produza um currículo que destaque suas habilidades e experiências para determinada vaga.",
+        "descricao": "Envia qual vaga você encontrou e seu currículo que será gerado um feedback com sugestões de melhoria",
         "pagina": "[ProducaoCurriculo](https://empregoconnect.streamlit.app/ProducaoCurriculo)"
     }
 ]
