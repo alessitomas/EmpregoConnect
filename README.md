@@ -18,7 +18,6 @@ Na plataforma EmpregoConnect você irá encontrar três assistentes virtuais, ca
 
 * **EncontraJob🕵️:** Encontra vagas de emprego com processo seletivo aberto que combinem com suas experiências e interesses, ele explica quais critérios você não se adequou da vaga e retorna um link para o processo seletivo.
 
-* **PreparoSoftSkills🥋:** Simula uma entrevista de emprego para sua vaga de interesse, fornecendo feedback para você se preparar da melhor forma.
 
 * **ProducaoCurriculo📄:** Analisa seu currículo e vaga de interesse, eno final fornece feedback construtivo para que você o aperfeiçoe e aumente suas chances de ser chamado para uma entrevista.
 
@@ -35,7 +34,6 @@ Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
 **Comece sua jornada em busca do emprego ideal agora mesmo!**
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://empregoconnect.streamlit.app/)
-
 
 
 **Benefícios do EmpregoConnect:**
