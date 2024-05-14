@@ -15,12 +15,12 @@ etapas = [
         "descricao": "Encontre uma vaga com processo seletivo aberto que faça sentido para você, com base nas suas experiências e interesses.",
         "pagina": "[EncontraJob](https://empregoconnect.streamlit.app/EncontraJob)"
     },
-    {
-        "nome": "Preparar entrevista",
-        "icone": "🥋",
-        "descricao": "Envie qual vaga você encontrou e receba dicas de como se preparar para a entrevista.",
-        "pagina": "[PreparoSoftSkills](https://empregoconnect.streamlit.app/PreparoSoftSkills)"
-    },
+    # {
+    #     "nome": "Preparar entrevista",
+    #     "icone": "🥋",
+    #     "descricao": "Envie qual vaga você encontrou e receba dicas de como se preparar para a entrevista.",
+    #     "pagina": "[PreparoSoftSkills](https://empregoconnect.streamlit.app/PreparoSoftSkills)"
+    # },
     {
         "nome": "Produzir Currículo",
         "icone": "📄",
