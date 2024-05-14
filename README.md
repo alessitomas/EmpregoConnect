@@ -24,6 +24,11 @@ Na plataforma EmpregoConnect você irá encontrar três assistentes virtuais, ca
 
 * **ProducaoCurriculo📄:** Analisa seu currículo e vaga de interesse, eno final fornece feedback construtivo para que você o aperfeiçoe e aumente suas chances de ser chamado para uma entrevista.
 
+### Apresentação do projeto 
+
+[![Assista ao vídeo](https://img.youtube.com/vi/lf5KPec3JUs/0.jpg)](https://youtu.be/lf5KPec3JUs))
+
+
 ### EmpregoConnect está no ar!
 
 Fiz o deploy por meio da Streamlit Cloud.
@@ -32,7 +37,6 @@ Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
 **Comece sua jornada em busca do emprego ideal agora mesmo!**
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://empregoconnect.streamlit.app/)
-
 
 
 
