@@ -10,8 +10,6 @@ Encontrar um emprego pode ser um processo desafiador e demorado.
 
 1. Muitas vezes é difícil encontrar vagas com processo seletivo aberto que combinem com suas experiências e interesses.
 
-2. Preparar-se para a entrevistas de emprego não é trivial. É importante saber como responder perguntas comuns e se preparar para possíveis perguntas inesperadas, mas onde conseguir como se preparar para uma vaga especific?.
-
 3. Seu currículo é a primeira impressão que você passa para o recrutador. É importante que ele esteja bem estruturado e adequado para a vaga que você está se candidatando, mas a maioria da pessoas acaba usando um mesmo currículo para vagas diferentes.
 
 **Soluções 🚀**
@@ -50,7 +48,6 @@ Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
 
 * **🏠Home.py** Página Home explica sobre os assistentes
 * **1_🕵️EncontraJob.py:** Código do assistente virtual EncontraJob.
-* **2_🥋PreparoSoftSkills.py:** Código do assistente virtual PreparoSoftSkills.
 * **3_📄ProducaoCurriculo.py:** Código do assistente virtual ProducaoCurriculo.
 
 **Tecnologias utilizadas:**
@@ -69,11 +66,6 @@ Para acessar o aplicativo EmpregoConnect, clique no link abaixo:
 ![Descrição da imagem 2](encontra.jpeg)
 ### Assistente EncontraJob em ação
 ![Descrição da imagem 3](encontra_acao.jpeg)
-
-### Assistente PreparoSoftSkills
-![Descrição da imagem 4](preparo.jpeg)
-### Assistente PreparoSoftSkills em ação
-![Descrição da imagem 5](preparo_acao.jpeg)
 
 ### Assistente ProducaoCurriculo
 ![Descrição da imagem 6](cv.jpeg)
