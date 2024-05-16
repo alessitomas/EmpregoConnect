@@ -1,5 +1,8 @@
 ## EmpregoConnect 🚀
 
+**Esse projeto ficou em 5º lugar na Imersão IA Alura + Google **
+
+
 **O que é o EmpregoConnect?**
 
 O EmpregoConnect é uma plataforma que te ajuda a encontrar emprego ideal!
@@ -23,7 +26,7 @@ Na plataforma EmpregoConnect você irá encontrar três assistentes virtuais, ca
 
 ### Apresentação do projeto 
 
-[![Assista ao vídeo](https://img.youtube.com/vi/lf5KPec3JUs/0.jpg)](https://youtu.be/lf5KPec3JUs))
+[![Assista ao vídeo](https://img.youtube.com/vi/lf5KPec3JUs/0.jpg)](https://youtu.be/lf5KPec3JUs)
 
 
 ### EmpregoConnect está no ar!
